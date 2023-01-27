@@ -6,4 +6,4 @@ In this project I have written a Python code to automatically download youtube v
 - spacy library for extractive summary
 - pegasus from google for abstractive summary
 
-## Credit - me, google, youtube and chatGPT
+## Credit - [Me](https://www.linkedin.com/in/nabilphysics/), google, youtube and chatGPT
