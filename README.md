@@ -5,3 +5,5 @@ In this project I have written a Python code to automatically download youtube v
 - whisper from openAI (https://openai.com/blog/whisper/)
 - spacy library for extractive summary
 - pegasus from google for abstractive summary
+
+## Credit - me, google, youtube and chatGPT
